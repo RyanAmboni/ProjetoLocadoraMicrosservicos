@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "Clientes.API\\Clientes.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Filmes.API\\Filmes.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Locacoes.API\\Locacoes.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
